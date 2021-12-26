@@ -141,4 +141,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Big data. Use pre_process.py to create the directory
+data/finalize_dogs_vs_cats
+
 # End of https://www.toptal.com/developers/gitignore/api/python
