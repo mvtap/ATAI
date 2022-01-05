@@ -144,4 +144,12 @@ cython_debug/
 # Big data
 data/
 
+Miguel/dogs-vs-cats-resnet/
+Miguel/finalize_dogs_vs_cats/
+Miguel/dataset_dogs_vs_cats/
+Miguel/dogs-vs-cats/
+
+#images
+*.jpg
+
 # End of https://www.toptal.com/developers/gitignore/api/python
